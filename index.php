@@ -1,5 +1,5 @@
 <?php
-include_once 'partials/_header.php';
+require_once 'partials/_header.php';
 ?>
 
     <!-- Main Content -->
@@ -9,5 +9,5 @@ include_once 'partials/_header.php';
 
 
 <?php
-include_once 'partials/_footer.php';
+require_once 'partials/_footer.php';
 ?>
